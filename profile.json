@@ -1,0 +1,6324 @@
+[
+    {
+        "id": "RTS234",
+        "common_noun": [
+            "flagship",
+            "iphone",
+            "x",
+            "flagship",
+            "phone",
+            "opinions",
+            "phone"
+        ],
+        "proper_noun": [
+            "apple",
+            "iphone",
+            "x",
+            "apple"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS235",
+        "common_noun": [
+            "information",
+            "route",
+            "family",
+            "trip",
+            "details",
+            "route",
+            "length",
+            "accessibility",
+            "history",
+            "sights",
+            "attractions",
+            "activities",
+            "recommendations",
+            "interest"
+        ],
+        "proper_noun": [
+            "freedom",
+            "trail",
+            "boston",
+            "boston",
+            "freedom",
+            "trail"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS236",
+        "common_noun": [
+            "hurricanes",
+            "hurricanes"
+        ],
+        "proper_noun": [
+            "gulf",
+            "mexico",
+            "gulf",
+            "mexico"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS237",
+        "common_noun": [
+            "information",
+            "marlin",
+            "fishing",
+            "successes",
+            "marlin",
+            "fishing",
+            "fisherman",
+            "boat",
+            "captain",
+            "team",
+            "marlin",
+            "catches"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS238",
+        "common_noun": [
+            "ideas",
+            "science",
+            "experiments",
+            "children",
+            "interest",
+            "science",
+            "teacher",
+            "examples",
+            "experiments",
+            "classrooms",
+            "students",
+            "interest",
+            "science",
+            "descriptions",
+            "experiments",
+            "information",
+            "sources",
+            "equipment"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS239",
+        "common_noun": [
+            "tourist",
+            "information",
+            "quality",
+            "tourist",
+            "beaches",
+            "accommodations",
+            "rentals",
+            "shopping",
+            "restaurants",
+            "culture",
+            "activities",
+            "vacationers",
+            "reviews",
+            "stays",
+            "island",
+            "information",
+            "advice",
+            "island"
+        ],
+        "proper_noun": [
+            "ocracoke",
+            "island",
+            "ocracoke",
+            "island",
+            "travel"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS240",
+        "common_noun": [
+            "information",
+            "concert",
+            "concert",
+            "tickets",
+            "dates",
+            "concerts",
+            "information",
+            "concert",
+            "hall",
+            "venue",
+            "interest"
+        ],
+        "proper_noun": [
+            "cher",
+            "national",
+            "harbor",
+            "national",
+            "harbor",
+            "cher"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS241",
+        "common_noun": [
+            "enthusiast",
+            "enthusiast",
+            "spots",
+            "hikers"
+        ],
+        "proper_noun": [
+            "ontario",
+            "ontario"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS242",
+        "common_noun": [
+            "information",
+            "antique",
+            "shows",
+            "antiques",
+            "antique",
+            "show",
+            "opportunity",
+            "vendors",
+            "information",
+            "antique",
+            "shows"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS243",
+        "common_noun": [
+            "music",
+            "lover",
+            "performances",
+            "venue",
+            "information",
+            "performances",
+            "line-ups",
+            "ticket",
+            "sales",
+            "availability",
+            "concert-goer",
+            "venue",
+            "reviews",
+            "concerts",
+            "performances",
+            "interest"
+        ],
+        "proper_noun": [
+            "rams",
+            "head",
+            "live",
+            "rams",
+            "head",
+            "live",
+            "baltimore",
+            "md"
+        ],
+        "th": 23
+    },
+    {
+        "id": "RTS244",
+        "common_noun": [
+            "likelihood",
+            "opinions",
+            "likelihood",
+            "stock",
+            "exchange"
+        ],
+        "proper_noun": [
+            "aramco",
+            "ipo",
+            "aramco",
+            "ipo"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS245",
+        "common_noun": [
+            "member",
+            "community",
+            "status",
+            "community",
+            "community",
+            "living"
+        ],
+        "proper_noun": [
+            "lgbt",
+            "india",
+            "lgbt",
+            "india",
+            "lgbt",
+            "india"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS246",
+        "common_noun": [
+            "information",
+            "methods",
+            "uses",
+            "efficacy",
+            "therapy",
+            "conditions",
+            "therapy",
+            "benefits",
+            "use",
+            "methods",
+            "success",
+            "result",
+            "therapy"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS247",
+        "common_noun": [
+            "information",
+            "massage",
+            "therapists",
+            "doctor",
+            "massage",
+            "therapist",
+            "recommendations",
+            "therapists"
+        ],
+        "proper_noun": [
+            "toronto",
+            "toronto"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS248",
+        "common_noun": [
+            "future",
+            "agriculture",
+            "future",
+            "agriculture",
+            "techniques",
+            "engineering"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS249",
+        "common_noun": [
+            "information",
+            "pop",
+            "restaurants",
+            "area",
+            "living",
+            "pop",
+            "restaurant",
+            "pop",
+            "information",
+            "type",
+            "pricing",
+            "dates",
+            "reservations",
+            "chefs",
+            "restauranteurs"
+        ],
+        "proper_noun": [
+            "new",
+            "york",
+            "city",
+            "new",
+            "york",
+            "city"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS250",
+        "common_noun": [
+            "information",
+            "bars",
+            "trip",
+            "suggestions",
+            "bars",
+            "details",
+            "names",
+            "types",
+            "drink",
+            "bar-goers",
+            "comments",
+            "reviews",
+            "bars"
+        ],
+        "proper_noun": [
+            "annapolis",
+            "md",
+            "annapolis",
+            "md"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS251",
+        "common_noun": [
+            "information",
+            "state",
+            "negotiations",
+            "outcomes",
+            "interest",
+            "negotiations",
+            "information",
+            "participants",
+            "positions",
+            "evidence",
+            "progress",
+            "lack",
+            "thereof",
+            "opinions",
+            "negotiations",
+            "opinions",
+            "negotiations"
+        ],
+        "proper_noun": [
+            "nafta",
+            "free",
+            "trade",
+            "agreement",
+            "nafta",
+            "nafta"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS252",
+        "common_noun": [
+            "performances",
+            "attendees",
+            "impressions",
+            "critiques",
+            "performances",
+            "interest",
+            "opinions",
+            "treatment",
+            "animals"
+        ],
+        "proper_noun": [
+            "universoul",
+            "circus",
+            "hampton",
+            "roads",
+            "va",
+            "universoul",
+            "circus",
+            "hampton",
+            "roads",
+            "va",
+            "universoul",
+            "circus",
+            "circus"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS253",
+        "common_noun": [
+            "products",
+            "trade",
+            "war",
+            "consumer",
+            "products",
+            "industries",
+            "trade",
+            "war",
+            "examples",
+            "products",
+            "brands",
+            "products",
+            "brands"
+        ],
+        "proper_noun": [
+            "canadian",
+            "canada-u.s"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS254",
+        "common_noun": [
+            "fashion",
+            "statements",
+            "fashion"
+        ],
+        "proper_noun": [
+            "bay",
+            "bay",
+            "bay"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS255",
+        "common_noun": [
+            "hardware",
+            "software",
+            "bug",
+            "fixes",
+            "products",
+            "bug",
+            "fixes",
+            "products"
+        ],
+        "proper_noun": [
+            "apple",
+            "apple"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS256",
+        "common_noun": [
+            "sources",
+            "funding",
+            "adult",
+            "education",
+            "adult",
+            "age",
+            "education",
+            "field",
+            "sources",
+            "adult",
+            "students"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS257",
+        "common_noun": [
+            "use",
+            "roofs",
+            "gardens",
+            "roof",
+            "garden",
+            "garden",
+            "roof",
+            "building",
+            "gardens",
+            "lessons",
+            "gardens",
+            "viability"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS258",
+        "common_noun": [
+            "debt",
+            "student",
+            "loans",
+            "debt",
+            "student",
+            "loans",
+            "ideas",
+            "structure",
+            "repayment"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS259",
+        "common_noun": [
+            "tracks",
+            "son",
+            "track",
+            "venues"
+        ],
+        "proper_noun": [
+            "go",
+            "karts",
+            "go",
+            "kart"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS260",
+        "common_noun": [
+            "information",
+            "release",
+            "game",
+            "gamer",
+            "release",
+            "game",
+            "game",
+            "details",
+            "release",
+            "reviews",
+            "popularity",
+            "characters",
+            "story",
+            "anticipation",
+            "game",
+            "release",
+            "previews",
+            "reviews"
+        ],
+        "proper_noun": [
+            "banner",
+            "saga",
+            "banner",
+            "saga"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS261",
+        "common_noun": [
+            "examples",
+            "breakfast",
+            "recipes",
+            "breakfast",
+            "recipes",
+            "breakfast",
+            "morning"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS262",
+        "common_noun": [
+            "sources",
+            "support",
+            "caregivers",
+            "caregiver",
+            "wife",
+            "disease",
+            "caregivers",
+            "suggestions",
+            "sources",
+            "support",
+            "suggestions",
+            "isolation",
+            "rest"
+        ],
+        "proper_noun": [
+            "alzheimer",
+            "alzheimer"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS263",
+        "common_noun": [
+            "fan",
+            "tennis",
+            "comments",
+            "fans"
+        ],
+        "proper_noun": [
+            "rafael",
+            "nadal",
+            "rafael",
+            "nadal",
+            "rafael",
+            "nadal"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS264",
+        "common_noun": [
+            "information",
+            "steps",
+            "claims",
+            "moves",
+            "claims",
+            "moves"
+        ],
+        "proper_noun": [
+            "u.s",
+            "south",
+            "china",
+            "sea",
+            "u.s",
+            "south",
+            "china",
+            "sea"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS265",
+        "common_noun": [
+            "concerts",
+            "fan",
+            "concerts",
+            "concerts",
+            "details",
+            "bands",
+            "concerts"
+        ],
+        "proper_noun": [
+            "imagine",
+            "dragons",
+            "canada",
+            "imagine",
+            "dragons",
+            "canada"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS266",
+        "common_noun": [
+            "share",
+            "summer",
+            "camp",
+            "memories",
+            "summer",
+            "camp",
+            "memories",
+            "summer",
+            "camp"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS267",
+        "common_noun": [
+            "ingredients",
+            "tequila",
+            "drinks",
+            "drink",
+            "mixes",
+            "tequila"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS268",
+        "common_noun": [
+            "ideas",
+            "ice",
+            "cream",
+            "cakes",
+            "cream",
+            "cake",
+            "birthday",
+            "ice",
+            "cream",
+            "cakes",
+            "cakes",
+            "brands/types/flavors",
+            "ice",
+            "cream",
+            "cake",
+            "pictures",
+            "ice",
+            "cream",
+            "cakes",
+            "inspiration"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS269",
+        "common_noun": [
+            "information",
+            "restaurants",
+            "farm",
+            "menu",
+            "lifestyle",
+            "farm",
+            "restaurant",
+            "farm",
+            "idea",
+            "restaurants",
+            "type",
+            "menu",
+            "reviews",
+            "restaurants",
+            "patrons"
+        ],
+        "proper_noun": [
+            "michigan",
+            "michigan"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS270",
+        "common_noun": [
+            "warhammer",
+            "fan",
+            "warhammer",
+            "series",
+            "anything",
+            "game",
+            "games",
+            "mod",
+            "content",
+            "expansions"
+        ],
+        "proper_noun": [
+            "war",
+            "war",
+            "dlc"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS271",
+        "common_noun": [
+            "use",
+            "drone",
+            "technology",
+            "movie",
+            "making",
+            "engineer",
+            "drone",
+            "technology",
+            "examples",
+            "drone",
+            "technology",
+            "quadcopters",
+            "movie",
+            "making"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS272",
+        "common_noun": [
+            "music",
+            "xxxtentacion",
+            "music",
+            "xxxtentacion"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS273",
+        "common_noun": [
+            "recommendations",
+            "beach",
+            "beach",
+            "vacation",
+            "possibility",
+            "opinions",
+            "area",
+            "vacation",
+            "destination",
+            "opinions",
+            "beach",
+            "area",
+            "hotels"
+        ],
+        "proper_noun": [
+            "surfside",
+            "surfside"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS274",
+        "common_noun": [
+            "results",
+            "news",
+            "news",
+            "results",
+            "multisport",
+            "event",
+            "year"
+        ],
+        "proper_noun": [
+            "championships",
+            "european",
+            "championships",
+            "berlin",
+            "glasgow"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS275",
+        "common_noun": [
+            "information",
+            "years",
+            "year",
+            "dates",
+            "travel",
+            "accommodations",
+            "information",
+            "performances",
+            "vendors",
+            "activities",
+            "attendees",
+            "festival"
+        ],
+        "proper_noun": [
+            "wicker",
+            "park",
+            "fest",
+            "wicker",
+            "park",
+            "fest"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS276",
+        "common_noun": [
+            "effects",
+            "music",
+            "concentration",
+            "effects",
+            "music",
+            "concentration",
+            "research",
+            "evidence",
+            "music",
+            "concentration"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS277",
+        "common_noun": [
+            "updates",
+            "reality",
+            "tv",
+            "show",
+            "follower",
+            "reality",
+            "tv",
+            "show",
+            "happenings",
+            "show"
+        ],
+        "proper_noun": [
+            "bachelorette",
+            "bachelorette"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS278",
+        "common_noun": [
+            "information",
+            "project",
+            "management",
+            "tips",
+            "styles",
+            "software",
+            "tips",
+            "project",
+            "management",
+            "styles",
+            "project",
+            "management",
+            "software",
+            "project",
+            "managers"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS279",
+        "common_noun": [
+            "information",
+            "resident",
+            "year",
+            "information",
+            "entertainment",
+            "competitions",
+            "exhibits",
+            "amusements",
+            "events",
+            "fair-goers",
+            "attendance",
+            "impressions",
+            "fair"
+        ],
+        "proper_noun": [
+            "ventura",
+            "county",
+            "fair",
+            "ventura",
+            "county",
+            "ca",
+            "county",
+            "fair"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS280",
+        "common_noun": [
+            "wildfires",
+            "jungles",
+            "wildfires"
+        ],
+        "proper_noun": [
+            "british",
+            "columbia",
+            "canada",
+            "british",
+            "columbia"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS281",
+        "common_noun": [
+            "concert",
+            "tour",
+            "band",
+            "fan",
+            "concert",
+            "concerts",
+            "tour",
+            "information",
+            "venue",
+            "tickets",
+            "travel",
+            "accommodations",
+            "interest",
+            "attendees",
+            "performances",
+            "impressions/reviews",
+            "anticipation",
+            "concerts"
+        ],
+        "proper_noun": [
+            "return",
+            "lady",
+            "antebellum",
+            "antebellum"
+        ],
+        "th": 23
+    },
+    {
+        "id": "RTS282",
+        "common_noun": [
+            "tips",
+            "techniques",
+            "bass",
+            "fishing",
+            "interest",
+            "bass",
+            "fishing",
+            "information",
+            "proven",
+            "techniques",
+            "freshwater",
+            "sport",
+            "fishing",
+            "recommendations",
+            "tackle",
+            "bait",
+            "technique",
+            "equipment"
+        ],
+        "proper_noun": [],
+        "th": 18
+    },
+    {
+        "id": "RTS283",
+        "common_noun": [
+            "recipes",
+            "baby",
+            "mother",
+            "baby",
+            "homemade",
+            "baby",
+            "recipes",
+            "assurance",
+            "baby",
+            "none",
+            "fillers",
+            "baby",
+            "suggestions",
+            "recipes",
+            "homemade",
+            "baby"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS284",
+        "common_noun": [
+            "opinions",
+            "airline",
+            "passengers",
+            "writer",
+            "travel",
+            "magazine",
+            "opinion",
+            "airlines",
+            "opinion",
+            "airline",
+            "passengers",
+            "reasons",
+            "airline"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS285",
+        "common_noun": [
+            "elimination",
+            "swimsuit",
+            "competition",
+            "pageant",
+            "reaction",
+            "decision",
+            "organization",
+            "swimsuit",
+            "portion",
+            "pageant",
+            "opinions",
+            "relevance",
+            "beauty",
+            "pageants",
+            "era"
+        ],
+        "proper_noun": [
+            "miss",
+            "america",
+            "miss",
+            "america",
+            "me",
+            "too"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS286",
+        "common_noun": [
+            "jewelry",
+            "jewelry",
+            "hobby",
+            "advice",
+            "patterns",
+            "sources",
+            "supplies",
+            "tips",
+            "beaders.information",
+            "potential",
+            "bead",
+            "products",
+            "interest",
+            "notice",
+            "items",
+            "sale"
+        ],
+        "proper_noun": [],
+        "th": 19
+    },
+    {
+        "id": "RTS287",
+        "common_noun": [
+            "information",
+            "performances",
+            "summer",
+            "performance",
+            "year",
+            "play",
+            "dates",
+            "information",
+            "travel",
+            "advice",
+            "reviews",
+            "production",
+            "performers",
+            "interest"
+        ],
+        "proper_noun": [
+            "shakespeare",
+            "park",
+            "new",
+            "york",
+            "city",
+            "new",
+            "york",
+            "city",
+            "shakespeare",
+            "park"
+        ],
+        "th": 23
+    },
+    {
+        "id": "RTS288",
+        "common_noun": [
+            "information",
+            "graduate",
+            "education",
+            "information",
+            "graduate",
+            "education",
+            "news",
+            "articles",
+            "opinion",
+            "pieces",
+            "articles",
+            "rankings",
+            "advertisements"
+        ],
+        "proper_noun": [
+            "u.s",
+            "u.s"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS289",
+        "common_noun": [
+            "crafts",
+            "children",
+            "business",
+            "parties",
+            "children",
+            "suggestions",
+            "crafts",
+            "children",
+            "information",
+            "cost",
+            "sources",
+            "supplies"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS290",
+        "common_noun": [
+            "information",
+            "tv",
+            "show",
+            "fan",
+            "tv",
+            "series",
+            "details",
+            "season",
+            "series",
+            "details",
+            "actors",
+            "series"
+        ],
+        "proper_noun": [
+            "stranger",
+            "things",
+            "stranger",
+            "things"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS291",
+        "common_noun": [
+            "reports",
+            "flights",
+            "airports",
+            "reports",
+            "flights",
+            "airports",
+            "vacation",
+            "likelihood",
+            "flight",
+            "airports",
+            "interest"
+        ],
+        "proper_noun": [
+            "london",
+            "london",
+            "city",
+            "lcy",
+            "heathrow",
+            "lhr",
+            "gatwick",
+            "lgw",
+            "luton",
+            "ltn",
+            "stansted",
+            "stn",
+            "southend",
+            "sen",
+            "london",
+            "england",
+            "london",
+            "city",
+            "lcy",
+            "heathrow",
+            "lhr",
+            "gatwick",
+            "lgw",
+            "luton",
+            "ltn",
+            "stansted",
+            "stn",
+            "southend",
+            "sen"
+        ],
+        "th": 26
+    },
+    {
+        "id": "RTS292",
+        "common_noun": [
+            "place",
+            "badminton",
+            "player",
+            "news",
+            "place"
+        ],
+        "proper_noun": [
+            "badminton",
+            "world",
+            "championships",
+            "nanjing",
+            "china",
+            "badminton",
+            "world",
+            "championships",
+            "nanjing",
+            "china"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS293",
+        "common_noun": [
+            "accounts",
+            "accidents",
+            "self-driving",
+            "vehicles",
+            "accounts",
+            "participants",
+            "witnesses",
+            "accidents",
+            "vehicles"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS294",
+        "common_noun": [
+            "information",
+            "events",
+            "cycling",
+            "world",
+            "cycling",
+            "cycling",
+            "race",
+            "views",
+            "course/participants",
+            "race"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS295",
+        "common_noun": [
+            "year",
+            "celebration",
+            "year",
+            "anniversary",
+            "celebration",
+            "announcements",
+            "events",
+            "part",
+            "celebration",
+            "participants",
+            "events"
+        ],
+        "proper_noun": [
+            "latvia",
+            "latvia"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS296",
+        "common_noun": [
+            "information",
+            "places",
+            "dog",
+            "places"
+        ],
+        "proper_noun": [
+            "ontario",
+            "canada",
+            "ontario",
+            "canada"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS297",
+        "common_noun": [
+            "writing",
+            "school",
+            "school",
+            "teacher",
+            "school",
+            "year",
+            "opinions",
+            "writing",
+            "skill",
+            "school",
+            "students",
+            "lesson",
+            "plans",
+            "writing"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS298",
+        "common_noun": [
+            "events",
+            "months",
+            "discuss",
+            "entertainment",
+            "anticipation",
+            "event",
+            "opinion",
+            "entertainment",
+            "venue"
+        ],
+        "proper_noun": [
+            "atlanta",
+            "center",
+            "atlanta",
+            "atlanta",
+            "center",
+            "stage"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS299",
+        "common_noun": [
+            "recommendations",
+            "vegan",
+            "dishes",
+            "cook",
+            "dishes"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS300",
+        "common_noun": [
+            "music",
+            "stigma",
+            "hypothesis",
+            "population",
+            "music",
+            "stigma",
+            "music",
+            "hypothesis"
+        ],
+        "proper_noun": [
+            "justin",
+            "beiber",
+            "justin",
+            "beiber"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS301",
+        "common_noun": [
+            "information",
+            "motorsports",
+            "races",
+            "motorsports",
+            "fan",
+            "event",
+            "races",
+            "events",
+            "dates",
+            "classes",
+            "vehicles",
+            "race",
+            "drivers",
+            "anticipation",
+            "opinions",
+            "race",
+            "park",
+            "events"
+        ],
+        "proper_noun": [
+            "summit",
+            "point",
+            "motorsports",
+            "park",
+            "summit",
+            "point",
+            "motorsports",
+            "park"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS302",
+        "common_noun": [
+            "suggestions",
+            "products",
+            "guides",
+            "make-up",
+            "someone",
+            "make-up",
+            "products",
+            "beginner",
+            "guides",
+            "make-up"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS303",
+        "common_noun": [
+            "graph",
+            "data",
+            "uses",
+            "computations",
+            "graph",
+            "databases",
+            "challenges",
+            "researcher",
+            "data",
+            "academia",
+            "industry",
+            "use",
+            "graphs",
+            "uses",
+            "queries",
+            "frustrations",
+            "challenges",
+            "graphs",
+            "graph",
+            "databases"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS304",
+        "common_noun": [
+            "women",
+            "chemotherapy",
+            "breast",
+            "cancer",
+            "study",
+            "women",
+            "treatment",
+            "study",
+            "population",
+            "women",
+            "year",
+            "chemotherapy",
+            "treatment",
+            "breast",
+            "cancer",
+            "reaction",
+            "report",
+            "women",
+            "treatment"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS305",
+        "common_noun": [
+            "information",
+            "festivals",
+            "area",
+            "lover",
+            "festivals",
+            "area",
+            "dates",
+            "festivals",
+            "information",
+            "menus",
+            "activities",
+            "performances",
+            "anticipation",
+            "festivals"
+        ],
+        "proper_noun": [
+            "boston",
+            "boston"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS306",
+        "common_noun": [
+            "information",
+            "status",
+            "governor",
+            "race",
+            "governor",
+            "race",
+            "poll",
+            "numbers",
+            "money",
+            "issues",
+            "race"
+        ],
+        "proper_noun": [
+            "maryland",
+            "maryland",
+            "pac"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS307",
+        "common_noun": [
+            "development",
+            "city",
+            "news",
+            "developments",
+            "city"
+        ],
+        "proper_noun": [
+            "neom",
+            "neom"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS308",
+        "common_noun": [
+            "agreement",
+            "reports",
+            "steps",
+            "countries",
+            "agreement"
+        ],
+        "proper_noun": [
+            "europe"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS309",
+        "common_noun": [
+            "information",
+            "shark",
+            "sightings",
+            "beaches",
+            "coast",
+            "sharks",
+            "shark",
+            "sightings",
+            "coast",
+            "beaches",
+            "number",
+            "species",
+            "sharks",
+            "attacks",
+            "injuries",
+            "beach",
+            "closures",
+            "measures"
+        ],
+        "proper_noun": [
+            "united",
+            "states"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS310",
+        "common_noun": [
+            "trip",
+            "performance",
+            "information",
+            "bands",
+            "performance",
+            "dates",
+            "quality",
+            "bands",
+            "performances"
+        ],
+        "proper_noun": [
+            "salute",
+            "sunset",
+            "concert",
+            "series",
+            "national",
+            "harbor",
+            "national",
+            "harbor",
+            "salute",
+            "sunset",
+            "concert",
+            "series"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS311",
+        "common_noun": [
+            "news",
+            "meet",
+            "swimmer",
+            "action",
+            "meet",
+            "news",
+            "reports",
+            "posts",
+            "swimmers",
+            "fans",
+            "meet",
+            "interest"
+        ],
+        "proper_noun": [
+            "fina",
+            "world",
+            "championship",
+            "fina",
+            "world",
+            "championships",
+            "gwangju",
+            "korea"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS312",
+        "common_noun": [
+            "propeller",
+            "rotor",
+            "driven",
+            "aircraft",
+            "propeller",
+            "rotor",
+            "driven",
+            "aircraft",
+            "kinds"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS313",
+        "common_noun": [
+            "information",
+            "trail",
+            "trail",
+            "advice",
+            "hikers",
+            "hike",
+            "tales",
+            "hikers",
+            "trail"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS314",
+        "common_noun": [
+            "tournament",
+            "player",
+            "tournament",
+            "year",
+            "tournament",
+            "information",
+            "participants",
+            "anticipation",
+            "travel",
+            "tournament"
+        ],
+        "proper_noun": [
+            "scrabble",
+            "championship",
+            "buffalo",
+            "ny",
+            "scrabble",
+            "scrabble",
+            "championship",
+            "buffalo",
+            "ny"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS315",
+        "common_noun": [
+            "suggestions",
+            "photo",
+            "instructions",
+            "techniques",
+            "photographer",
+            "quality",
+            "appeal",
+            "photographs",
+            "suggestions",
+            "tutorials",
+            "photo",
+            "techniques",
+            "tips",
+            "enthusiasts"
+        ],
+        "proper_noun": [],
+        "th": 14
+    },
+    {
+        "id": "RTS316",
+        "common_noun": [
+            "recommendations",
+            "toys",
+            "children",
+            "grandmother",
+            "toys",
+            "recommendations",
+            "parents",
+            "children",
+            "toys",
+            "children"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS317",
+        "common_noun": [
+            "peoples",
+            "cruise",
+            "ship",
+            "cruise",
+            "ship",
+            "board",
+            "ship"
+        ],
+        "proper_noun": [
+            "viking",
+            "sea",
+            "viking",
+            "sea"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS318",
+        "common_noun": [
+            "bins",
+            "jars",
+            "bins",
+            "jars",
+            "indoors"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS319",
+        "common_noun": [
+            "information",
+            "game",
+            "gamer",
+            "release",
+            "game",
+            "release",
+            "date",
+            "game",
+            "pricing",
+            "popularity",
+            "gamers",
+            "game",
+            "graphics",
+            "tips",
+            "reviews"
+        ],
+        "proper_noun": [
+            "warioware",
+            "gold",
+            "warioware",
+            "gold"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS320",
+        "common_noun": [
+            "information",
+            "craft",
+            "beer",
+            "breweries",
+            "area",
+            "beer",
+            "lover",
+            "bars",
+            "breweries",
+            "area",
+            "breweries",
+            "beers",
+            "beers",
+            "interest",
+            "opinions",
+            "beers",
+            "breweries",
+            "bars"
+        ],
+        "proper_noun": [
+            "boston",
+            "boston",
+            "ma"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS321",
+        "common_noun": [
+            "desktop",
+            "environment",
+            "complaints",
+            "environment",
+            "developer",
+            "problems",
+            "desktop",
+            "environment",
+            "complaints"
+        ],
+        "proper_noun": [
+            "kde",
+            "plasma",
+            "kde",
+            "plasma",
+            "kde",
+            "plasma"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS322",
+        "common_noun": [
+            "psychology",
+            "reference",
+            "books",
+            "psychology",
+            "recommendations",
+            "psychology",
+            "reference",
+            "books"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS323",
+        "common_noun": [
+            "information",
+            "performers",
+            "activities",
+            "information",
+            "travel",
+            "parking",
+            "accommodations",
+            "ticket",
+            "sales",
+            "interest",
+            "attendees",
+            "impressions",
+            "festival"
+        ],
+        "proper_noun": [
+            "summer",
+            "spirit",
+            "festival",
+            "merriweather",
+            "post",
+            "pavilion",
+            "columbia",
+            "md",
+            "summer",
+            "spirit",
+            "festival",
+            "merriweather",
+            "post",
+            "pavilion"
+        ],
+        "th": 24
+    },
+    {
+        "id": "RTS324",
+        "common_noun": [
+            "news",
+            "video",
+            "game",
+            "news",
+            "content",
+            "information",
+            "game"
+        ],
+        "proper_noun": [
+            "vermintide",
+            "vermintide",
+            "user",
+            "not",
+            "vermintide",
+            "not"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS325",
+        "common_noun": [
+            "attacks",
+            "victims",
+            "security",
+            "information",
+            "attacks",
+            "reports",
+            "attacks",
+            "victim",
+            "hopes"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS326",
+        "common_noun": [
+            "peoples",
+            "music",
+            "festival",
+            "music",
+            "arts",
+            "festival",
+            "festival"
+        ],
+        "proper_noun": [
+            "positivus",
+            "positivus",
+            "festival",
+            "baltic",
+            "states"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS327",
+        "common_noun": [
+            "information",
+            "information",
+            "blockchain",
+            "technology",
+            "research",
+            "developments",
+            "applications",
+            "platform",
+            "cryptocurrencies"
+        ],
+        "proper_noun": [
+            "ethereum",
+            "ethereum",
+            "ethereum"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS328",
+        "common_noun": [
+            "information",
+            "dramas",
+            "recommendations",
+            "dramas",
+            "recommendations"
+        ],
+        "proper_noun": [
+            "chinese"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS329",
+        "common_noun": [
+            "papers",
+            "research",
+            "machine",
+            "application",
+            "progress",
+            "machine",
+            "learning",
+            "application",
+            "information",
+            "retrieval",
+            "language",
+            "processing",
+            "research",
+            "papers",
+            "blog",
+            "posts",
+            "discussions"
+        ],
+        "proper_noun": [
+            "ir",
+            "nlp",
+            "ir",
+            "nlp",
+            "new"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS330",
+        "common_noun": [
+            "arguments",
+            "baseballs",
+            "home",
+            "runs",
+            "increase",
+            "number",
+            "home",
+            "runs",
+            "player",
+            "assertions",
+            "baseballs",
+            "study",
+            "difference",
+            "newer",
+            "balls",
+            "analyses",
+            "information",
+            "side",
+            "season"
+        ],
+        "proper_noun": [
+            "mlb"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS331",
+        "common_noun": [
+            "humans",
+            "progress",
+            "humans",
+            "news",
+            "plans",
+            "progress",
+            "goals",
+            "rocketry",
+            "missions",
+            "fiction"
+        ],
+        "proper_noun": [
+            "mars",
+            "mars",
+            "not"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS332",
+        "common_noun": [
+            "conference",
+            "conference",
+            "information",
+            "past",
+            "events"
+        ],
+        "proper_noun": [
+            "aamas",
+            "aamas"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS333",
+        "common_noun": [
+            "peoples",
+            "pain",
+            "acupuncture",
+            "suffers",
+            "pain",
+            "relief",
+            "acupuncture",
+            "pain"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS334",
+        "common_noun": [
+            "future",
+            "fan",
+            "news",
+            "speculation",
+            "future",
+            "club"
+        ],
+        "proper_noun": [
+            "eden",
+            "hazard",
+            "chelsea",
+            "chelsea",
+            "eden",
+            "hazard"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS335",
+        "common_noun": [
+            "information",
+            "trade",
+            "negotiations",
+            "business",
+            "owner",
+            "trade",
+            "policies",
+            "business",
+            "reports",
+            "content",
+            "trade",
+            "negotiations",
+            "imposition",
+            "tariffs",
+            "exemption",
+            "countries",
+            "tariffs",
+            "opinions",
+            "citizens",
+            "tariffs",
+            "trade",
+            "pacts"
+        ],
+        "proper_noun": [
+            "u.s",
+            "u.s",
+            "u.s"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS336",
+        "common_noun": [
+            "songs",
+            "performances",
+            "fan",
+            "enthusiasts",
+            "songs",
+            "performances"
+        ],
+        "proper_noun": [
+            "bts",
+            "bangtan",
+            "boys",
+            "bts",
+            "bangtan",
+            "boys"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS337",
+        "common_noun": [
+            "school",
+            "reunions",
+            "writer",
+            "newspaper",
+            "article",
+            "school",
+            "reunions",
+            "reasons",
+            "reunions"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS338",
+        "common_noun": [
+            "agent",
+            "signings",
+            "teams",
+            "lot",
+            "agents",
+            "team",
+            "moves",
+            "teams",
+            "off-season"
+        ],
+        "proper_noun": [
+            "nba",
+            "nba",
+            "nba"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS339",
+        "common_noun": [
+            "status",
+            "space",
+            "expedition",
+            "space",
+            "exploration",
+            "space",
+            "expedition",
+            "years",
+            "status",
+            "updates",
+            "commentary",
+            "program"
+        ],
+        "proper_noun": [
+            "voyager",
+            "voyager",
+            "voyager",
+            "ii"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS340",
+        "common_noun": [
+            "calamities",
+            "monsoon",
+            "rains",
+            "rainfall",
+            "updates",
+            "calamities",
+            "monsoon",
+            "rains"
+        ],
+        "proper_noun": [
+            "southern",
+            "india",
+            "southern",
+            "india"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS341",
+        "common_noun": [
+            "designs",
+            "chainsaw",
+            "sculptures",
+            "stump",
+            "yard",
+            "sculpture",
+            "ideas",
+            "information",
+            "sculptures"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS342",
+        "common_noun": [
+            "netflix",
+            "shows",
+            "movies",
+            "buzz",
+            "buzz",
+            "upcoming",
+            "shows",
+            "movies"
+        ],
+        "proper_noun": [
+            "netflix",
+            "netflix"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS343",
+        "common_noun": [
+            "campaign",
+            "responses",
+            "parents",
+            "teachers",
+            "workers",
+            "child",
+            "welfare",
+            "initiative",
+            "reports",
+            "details",
+            "initiative",
+            "interest"
+        ],
+        "proper_noun": [
+            "melania",
+            "trump",
+            "bebest",
+            "melania",
+            "trump",
+            "bebest",
+            "may"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS344",
+        "common_noun": [
+            "diets",
+            "pet",
+            "owners",
+            "dogs",
+            "dogs"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS345",
+        "common_noun": [
+            "state",
+            "government",
+            "language",
+            "decline",
+            "language",
+            "state",
+            "steps",
+            "state",
+            "government",
+            "language"
+        ],
+        "proper_noun": [
+            "punjab",
+            "punjabi",
+            "punjab",
+            "india",
+            "punjabi"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS346",
+        "common_noun": [
+            "bread",
+            "baking",
+            "recipes",
+            "bread",
+            "baking",
+            "recipes",
+            "recipes",
+            "breads"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS347",
+        "common_noun": [
+            "anime",
+            "evangelion",
+            "anime",
+            "fan",
+            "evangelion",
+            "release",
+            "analysis",
+            "art"
+        ],
+        "proper_noun": [
+            "evangelion"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS348",
+        "common_noun": [
+            "suggestions",
+            "flowers",
+            "wedding",
+            "wedding",
+            "flowers",
+            "information",
+            "flowers",
+            "wedding",
+            "tips",
+            "approximate",
+            "cost"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS349",
+        "common_noun": [
+            "opinions",
+            "handling",
+            "government",
+            "analyst",
+            "popularity",
+            "handling",
+            "government"
+        ],
+        "proper_noun": [
+            "narendra",
+            "modi",
+            "narendra",
+            "modi"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS350",
+        "common_noun": [
+            "developments",
+            "community",
+            "town",
+            "region",
+            "region"
+        ],
+        "proper_noun": [
+            "political",
+            "bobcaygeon",
+            "ontario",
+            "bobcaygeon",
+            "kawartha",
+            "lakes",
+            "ontario"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS351",
+        "common_noun": [
+            "production",
+            "vehicles",
+            "policies",
+            "development",
+            "vehicles",
+            "funds",
+            "car",
+            "makers",
+            "car",
+            "research",
+            "development",
+            "manufacturing",
+            "state",
+            "vehicle",
+            "production"
+        ],
+        "proper_noun": [
+            "china",
+            "china",
+            "us",
+            "canada",
+            "bmw",
+            "vw",
+            "tesla",
+            "china",
+            "china"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS352",
+        "common_noun": [
+            "information",
+            "opinions",
+            "opinions",
+            "communities",
+            "residents",
+            "community",
+            "interest"
+        ],
+        "proper_noun": [
+            "erickson",
+            "retirement",
+            "communities",
+            "erickson",
+            "retirement",
+            "community"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS353",
+        "common_noun": [
+            "entertainment",
+            "news",
+            "news",
+            "entertainment",
+            "world"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS354",
+        "common_noun": [
+            "developments",
+            "movement",
+            "independence",
+            "developments",
+            "effort",
+            "independence"
+        ],
+        "proper_noun": [
+            "catalonia",
+            "spain",
+            "catalonia",
+            "spain"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS355",
+        "common_noun": [
+            "process",
+            "information",
+            "immigration",
+            "system"
+        ],
+        "proper_noun": [
+            "canada",
+            "canada",
+            "canadian"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS356",
+        "common_noun": [
+            "tips",
+            "cat",
+            "owners",
+            "home",
+            "home",
+            "city",
+            "cat",
+            "advice",
+            "veterinarians",
+            "recommendations",
+            "cat",
+            "process"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS357",
+        "common_noun": [
+            "status",
+            "initiative",
+            "initiative",
+            "infrastructure",
+            "investment",
+            "status",
+            "initiative",
+            "details",
+            "projects",
+            "part",
+            "plan"
+        ],
+        "proper_noun": [
+            "belt",
+            "road",
+            "belt",
+            "road",
+            "marshall",
+            "plan",
+            "world",
+            "war",
+            "ii"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS358",
+        "common_noun": [
+            "information",
+            "safety",
+            "recalls",
+            "consumption",
+            "safety",
+            "recalls",
+            "products",
+            "reasons",
+            "extent",
+            "recalls",
+            "effects"
+        ],
+        "proper_noun": [
+            "united",
+            "states",
+            "united",
+            "states"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS359",
+        "common_noun": [
+            "reports",
+            "government",
+            "policies",
+            "immigration",
+            "government",
+            "platform",
+            "reports",
+            "changes",
+            "policy",
+            "respect",
+            "immigration"
+        ],
+        "proper_noun": [
+            "italy",
+            "italy",
+            "italy"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS360",
+        "common_noun": [
+            "commentary",
+            "poker",
+            "tournaments",
+            "avid",
+            "poker",
+            "player",
+            "games",
+            "poker",
+            "tournaments",
+            "poker",
+            "tournament",
+            "dates",
+            "entry",
+            "criteria",
+            "tournaments",
+            "participants",
+            "tournaments",
+            "participation"
+        ],
+        "proper_noun": [],
+        "th": 15
+    },
+    {
+        "id": "RTS361",
+        "common_noun": [
+            "trip",
+            "aurora",
+            "borealis",
+            "aurora",
+            "borealis",
+            "information",
+            "trip"
+        ],
+        "proper_noun": [
+            "canada",
+            "canada"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS362",
+        "common_noun": [
+            "water",
+            "races",
+            "practice",
+            "swims",
+            "water",
+            "enthusiast",
+            "places"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS363",
+        "common_noun": [
+            "festivals",
+            "fun",
+            "weekend",
+            "activities",
+            "festivals",
+            "admission",
+            "types",
+            "organizers",
+            "dates",
+            "attractions",
+            "concessions",
+            "performances",
+            "attendees",
+            "festivals"
+        ],
+        "proper_noun": [
+            "chicago",
+            "chicago"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS364",
+        "common_noun": [
+            "cases",
+            "identity",
+            "theft",
+            "identity",
+            "theft",
+            "identity",
+            "theft",
+            "cases",
+            "accounts",
+            "victims",
+            "identity",
+            "theft",
+            "identity",
+            "steps"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS365",
+        "common_noun": [
+            "news",
+            "self-advocacy",
+            "autism",
+            "spectrum",
+            "news",
+            "involvement",
+            "disability",
+            "rights",
+            "movements",
+            "news",
+            "autism",
+            "research",
+            "causes",
+            "autism"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS366",
+        "common_noun": [
+            "news",
+            "race",
+            "news",
+            "race"
+        ],
+        "proper_noun": [
+            "itu",
+            "world",
+            "triathlon",
+            "edmonton",
+            "itu",
+            "world",
+            "triathlon",
+            "edmonton"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS367",
+        "common_noun": [
+            "fitness",
+            "routines",
+            "fitness",
+            "models",
+            "practice",
+            "routines",
+            "tips",
+            "fitness",
+            "models",
+            "models"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS368",
+        "common_noun": [
+            "cat",
+            "yoga",
+            "manager",
+            "possibility",
+            "cat",
+            "yoga",
+            "course",
+            "line-up",
+            "classes",
+            "frequency",
+            "popularity",
+            "information",
+            "cats",
+            "care",
+            "training",
+            "cost",
+            "use",
+            "yoga",
+            "participants",
+            "enjoyment",
+            "practice",
+            "interest"
+        ],
+        "proper_noun": [],
+        "th": 24
+    },
+    {
+        "id": "RTS369",
+        "common_noun": [
+            "kpop",
+            "entertainment",
+            "news",
+            "kpop",
+            "fan",
+            "news",
+            "entertainment",
+            "industry"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS370",
+        "common_noun": [
+            "peoples",
+            "companions",
+            "companion",
+            "parent",
+            "information",
+            "use",
+            "robot",
+            "companions",
+            "persons",
+            "cost",
+            "vs",
+            "companions",
+            "insurance",
+            "coverage",
+            "effects",
+            "health",
+            "acceptance",
+            "seniors"
+        ],
+        "proper_noun": [],
+        "th": 20
+    },
+    {
+        "id": "RTS371",
+        "common_noun": [
+            "information",
+            "convention",
+            "plans",
+            "information",
+            "registration",
+            "travel",
+            "accommodations",
+            "guests",
+            "events",
+            "activities",
+            "attendees",
+            "plans",
+            "impressions"
+        ],
+        "proper_noun": [
+            "bronycon",
+            "brony",
+            "baltimore",
+            "brony",
+            "convention",
+            "baltimore",
+            "bronycon"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS372",
+        "common_noun": [
+            "programming",
+            "language",
+            "programming",
+            "language",
+            "language",
+            "links",
+            "resources"
+        ],
+        "proper_noun": [
+            "rust",
+            "rust",
+            "rust"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS373",
+        "common_noun": [
+            "information",
+            "crab",
+            "lover",
+            "year",
+            "date",
+            "ticket",
+            "sales",
+            "travel",
+            "parking",
+            "advice",
+            "attendees",
+            "anticipation",
+            "festival",
+            "details",
+            "activities",
+            "events"
+        ],
+        "proper_noun": [
+            "annapolis",
+            "crab",
+            "feast",
+            "maryland",
+            "annapolis",
+            "crab",
+            "feast"
+        ],
+        "th": 24
+    },
+    {
+        "id": "RTS374",
+        "common_noun": [
+            "treatment",
+            "diabetes",
+            "advancements",
+            "science",
+            "diabetes"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS375",
+        "common_noun": [
+            "tours",
+            "tour",
+            "city",
+            "recommendations",
+            "tours",
+            "sites"
+        ],
+        "proper_noun": [
+            "madrid",
+            "spain",
+            "spain",
+            "madrid"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS376",
+        "common_noun": [
+            "information",
+            "building",
+            "kites",
+            "enthusiast",
+            "share",
+            "interest",
+            "building",
+            "kites",
+            "exhibitions",
+            "tournaments",
+            "gatherings",
+            "fliers",
+            "kite"
+        ],
+        "proper_noun": [],
+        "th": 14
+    },
+    {
+        "id": "RTS377",
+        "common_noun": [
+            "information",
+            "events",
+            "cancer",
+            "research",
+            "fundraiser",
+            "information",
+            "upcoming",
+            "races",
+            "individuals",
+            "groups",
+            "interest",
+            "money",
+            "events"
+        ],
+        "proper_noun": [
+            "relay",
+            "life",
+            "relay",
+            "life"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS378",
+        "common_noun": [
+            "specs",
+            "market",
+            "phone",
+            "rumors",
+            "specs"
+        ],
+        "proper_noun": [
+            "google",
+            "pixel",
+            "google",
+            "pixel"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS379",
+        "common_noun": [
+            "games",
+            "yards",
+            "baseball",
+            "games",
+            "cost",
+            "convenience"
+        ],
+        "proper_noun": [
+            "orioles",
+            "camden",
+            "camden",
+            "yards"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS380",
+        "common_noun": [
+            "nature",
+            "documentaries",
+            "fan",
+            "nature",
+            "documentaries",
+            "films",
+            "tv",
+            "series",
+            "genre",
+            "announcements",
+            "reviews",
+            "discussion",
+            "films/shows"
+        ],
+        "proper_noun": [],
+        "th": 14
+    },
+    {
+        "id": "RTS381",
+        "common_noun": [
+            "earthquake",
+            "scientist",
+            "ways",
+            "face",
+            "disasters",
+            "aftermath",
+            "earthquake"
+        ],
+        "proper_noun": [
+            "california",
+            "california"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS382",
+        "common_noun": [
+            "information",
+            "things",
+            "guests",
+            "sights",
+            "attractions",
+            "restaurants",
+            "bars",
+            "details",
+            "hours",
+            "operation",
+            "ambiance",
+            "interest",
+            "opinions/ratings"
+        ],
+        "proper_noun": [
+            "fells",
+            "point",
+            "baltimore",
+            "fells",
+            "point",
+            "baltimore"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS383",
+        "common_noun": [
+            "information",
+            "tricks",
+            "clown",
+            "tricks",
+            "children",
+            "parties",
+            "magicians",
+            "publications",
+            "craft",
+            "sources",
+            "equipment",
+            "ideas",
+            "audiences",
+            "children",
+            "adults"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS384",
+        "common_noun": [
+            "announcement",
+            "streams",
+            "players",
+            "enthusiast",
+            "platform",
+            "players",
+            "games",
+            "front",
+            "number",
+            "streamers",
+            "twitter",
+            "streams"
+        ],
+        "proper_noun": [
+            "twitch"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS385",
+        "common_noun": [
+            "news",
+            "content"
+        ],
+        "proper_noun": [
+            "playstation",
+            "vita",
+            "playstation",
+            "vita"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS386",
+        "common_noun": [
+            "reports",
+            "encounters",
+            "witnesses",
+            "encounter",
+            "reports",
+            "reports",
+            "sightings",
+            "witnesses",
+            "competent",
+            "pilots",
+            "personnel",
+            "officers",
+            "follow-ups",
+            "reports",
+            "publications",
+            "observations"
+        ],
+        "proper_noun": [
+            "ufo",
+            "ufo",
+            "ufo"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS387",
+        "common_noun": [
+            "programming",
+            "language",
+            "programming",
+            "language",
+            "language",
+            "links",
+            "resources"
+        ],
+        "proper_noun": [
+            "python",
+            "python",
+            "python"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS388",
+        "common_noun": [
+            "movie",
+            "release",
+            "movie",
+            "critics",
+            "reviews",
+            "attendance",
+            "office",
+            "earnings",
+            "interest",
+            "movie-goers",
+            "anticipation",
+            "critiques",
+            "movie"
+        ],
+        "proper_noun": [
+            "darkest",
+            "minds",
+            "darkest",
+            "minds"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS389",
+        "common_noun": [
+            "importance",
+            "cruise",
+            "control",
+            "technology",
+            "cars",
+            "traffic",
+            "congestion",
+            "jams",
+            "thing",
+            "cruise",
+            "control",
+            "technology",
+            "set",
+            "distance",
+            "car",
+            "vehicle",
+            "front",
+            "innovation",
+            "congestion",
+            "relief",
+            "opinions",
+            "con",
+            "importance",
+            "traffic",
+            "flow"
+        ],
+        "proper_noun": [
+            "acc",
+            "acc"
+        ],
+        "th": 25
+    },
+    {
+        "id": "RTS390",
+        "common_noun": [
+            "fan",
+            "date",
+            "activities",
+            "places",
+            "events",
+            "clothes"
+        ],
+        "proper_noun": [
+            "kim",
+            "kardashian",
+            "kim",
+            "kardashian"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS391",
+        "common_noun": [
+            "sport",
+            "bicycle",
+            "racing",
+            "bicycles",
+            "share",
+            "enthusiasm",
+            "sport",
+            "information",
+            "cycling",
+            "organizations",
+            "competitions",
+            "comments",
+            "persons",
+            "sport"
+        ],
+        "proper_noun": [],
+        "th": 15
+    },
+    {
+        "id": "RTS392",
+        "common_noun": [
+            "information",
+            "women",
+            "fields",
+            "news",
+            "representation",
+            "fields",
+            "stories",
+            "news",
+            "articles",
+            "opinion",
+            "pieces",
+            "initiatives",
+            "women",
+            "fields"
+        ],
+        "proper_noun": [
+            "stem",
+            "stem",
+            "stem"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS393",
+        "common_noun": [
+            "recommendations",
+            "children",
+            "books",
+            "grandfather",
+            "knowledge",
+            "children",
+            "books",
+            "children",
+            "recommendations",
+            "commentary",
+            "children",
+            "books",
+            "today"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS394",
+        "common_noun": [
+            "updates",
+            "progress",
+            "elections",
+            "election",
+            "parties",
+            "leadership",
+            "results",
+            "election",
+            "impact",
+            "stability",
+            "subcontinent",
+            "updates",
+            "voting",
+            "exit",
+            "polls",
+            "results",
+            "election",
+            "leaders",
+            "government"
+        ],
+        "proper_noun": [
+            "pakistan",
+            "pakistan",
+            "july"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS395",
+        "common_noun": [
+            "peoples",
+            "opinions",
+            "quality",
+            "flight",
+            "reputation",
+            "airline",
+            "quality",
+            "service",
+            "problems",
+            "service",
+            "quality",
+            "airline"
+        ],
+        "proper_noun": [
+            "icelandair",
+            "icelandair"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS396",
+        "common_noun": [
+            "games",
+            "reality",
+            "reality",
+            "system",
+            "wonders",
+            "games",
+            "recommendations",
+            "advertisements",
+            "promotions"
+        ],
+        "proper_noun": [
+            "oculus",
+            "rift"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS397",
+        "common_noun": [
+            "airline"
+        ],
+        "proper_noun": [
+            "turkish",
+            "air",
+            "air"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS398",
+        "common_noun": [
+            "information",
+            "album",
+            "fan",
+            "album",
+            "release",
+            "album",
+            "sales",
+            "reviews",
+            "fans",
+            "music",
+            "critics",
+            "songs",
+            "album"
+        ],
+        "proper_noun": [
+            "joy",
+            "ty",
+            "segall",
+            "white",
+            "fence",
+            "ty",
+            "segall",
+            "joy",
+            "white",
+            "fence"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS399",
+        "common_noun": [
+            "women",
+            "stars",
+            "computer",
+            "science",
+            "careers",
+            "stars",
+            "computer",
+            "science",
+            "women",
+            "computer",
+            "science"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS400",
+        "common_noun": [
+            "peoples",
+            "companies",
+            "analysis",
+            "ancestors",
+            "analysis",
+            "ancestors",
+            "tales",
+            "companies",
+            "analysis",
+            "consumers",
+            "purposes"
+        ],
+        "proper_noun": [
+            "dna"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS401",
+        "common_noun": [
+            "puppetry",
+            "puppeteer",
+            "puppeteer",
+            "aspects",
+            "puppetry",
+            "information",
+            "organizations",
+            "exhibits",
+            "conventions",
+            "publications",
+            "information",
+            "puppets",
+            "supplies",
+            "comments",
+            "puppeteers",
+            "hobby"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS402",
+        "common_noun": [
+            "news",
+            "dinosaurs",
+            "paleontology",
+            "dinosaurs",
+            "science",
+            "articles",
+            "layperson",
+            "discoveries",
+            "paleontology",
+            "discoveries",
+            "ancient",
+            "creatures",
+            "dinosaur",
+            "news",
+            "opening",
+            "attractions",
+            "exhibits",
+            "dinosaurs",
+            "advertisements",
+            "merchandise"
+        ],
+        "proper_noun": [],
+        "th": 19
+    },
+    {
+        "id": "RTS403",
+        "common_noun": [
+            "anime",
+            "fan",
+            "anime",
+            "thoughts"
+        ],
+        "proper_noun": [
+            "boruto",
+            "boruto"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS404",
+        "common_noun": [
+            "linux",
+            "mint",
+            "operating",
+            "system",
+            "issues",
+            "system",
+            "developer",
+            "issues",
+            "linux",
+            "system",
+            "environment",
+            "complaints",
+            "mint"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS405",
+        "common_noun": [
+            "restaurants",
+            "delivery",
+            "service",
+            "information",
+            "restaurants",
+            "delivery",
+            "service",
+            "region",
+            "suggestions",
+            "restaurants"
+        ],
+        "proper_noun": [
+            "waterloo",
+            "ontario",
+            "waterloo",
+            "ontario"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS406",
+        "common_noun": [
+            "likelihood",
+            "biopic",
+            "life",
+            "predictions",
+            "biopic",
+            "life"
+        ],
+        "proper_noun": [
+            "salman",
+            "khan",
+            "salman",
+            "khan"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS407",
+        "common_noun": [
+            "events",
+            "things",
+            "weeks",
+            "culture",
+            "festivals/activities/events"
+        ],
+        "proper_noun": [
+            "frankfurt",
+            "germany",
+            "germany",
+            "germany",
+            "frankfurt"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS408",
+        "common_noun": [
+            "news",
+            "community",
+            "content",
+            "video",
+            "game",
+            "wishes",
+            "news",
+            "game",
+            "content",
+            "commentary"
+        ],
+        "proper_noun": [
+            "war",
+            "thunder",
+            "war",
+            "thunder",
+            "user"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS409",
+        "common_noun": [
+            "ideas",
+            "cream",
+            "sandwiches",
+            "novice",
+            "deserts",
+            "trends",
+            "cream",
+            "sandwiches",
+            "makeup",
+            "ice",
+            "cream",
+            "sandwich"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS410",
+        "common_noun": [
+            "cuisine",
+            "foodie",
+            "recommendations",
+            "recipes",
+            "dishes",
+            "cuisine"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS411",
+        "common_noun": [
+            "information",
+            "therapy",
+            "forms",
+            "therapy",
+            "information",
+            "animals",
+            "patient",
+            "therapy",
+            "types",
+            "animals",
+            "settings",
+            "methods",
+            "efficacy",
+            "therapy"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS412",
+        "common_noun": [
+            "information",
+            "concerts",
+            "country",
+            "music",
+            "fan",
+            "concert",
+            "information",
+            "concerts",
+            "dates",
+            "ticket",
+            "sales",
+            "fans",
+            "comments",
+            "anticipation",
+            "tour"
+        ],
+        "proper_noun": [
+            "keith",
+            "urban",
+            "keith",
+            "urban"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS413",
+        "common_noun": [
+            "information",
+            "jewelry",
+            "designs",
+            "trends",
+            "jewelry",
+            "design",
+            "necklaces",
+            "earrings",
+            "rings",
+            "bracelets"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS414",
+        "common_noun": [
+            "season",
+            "follower",
+            "series",
+            "season",
+            "happenings",
+            "show"
+        ],
+        "proper_noun": [
+            "homeland",
+            "homeland"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS415",
+        "common_noun": [
+            "suggestions",
+            "places",
+            "water"
+        ],
+        "proper_noun": [
+            "michigan",
+            "michigan"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS416",
+        "common_noun": [
+            "inspiration",
+            "container",
+            "gardens",
+            "flowers",
+            "apartment",
+            "flowers",
+            "ideas",
+            "container",
+            "gardens",
+            "flowers",
+            "choice",
+            "plants",
+            "designs",
+            "containers"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS417",
+        "common_noun": [
+            "release",
+            "movie",
+            "movie",
+            "fan",
+            "comedy",
+            "release",
+            "details",
+            "release",
+            "date",
+            "reviews",
+            "office",
+            "earnings",
+            "video",
+            "trailers"
+        ],
+        "proper_noun": [
+            "spy",
+            "who",
+            "me",
+            "spy",
+            "who",
+            "me"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS418",
+        "common_noun": [
+            "mountains",
+            "hiking",
+            "trip",
+            "areas",
+            "trip",
+            "travel",
+            "advice",
+            "area"
+        ],
+        "proper_noun": [
+            "blue",
+            "ridge",
+            "shenandoah",
+            "national",
+            "park",
+            "shenandoah",
+            "national",
+            "park",
+            "blue",
+            "ridge",
+            "mountains"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS419",
+        "common_noun": [
+            "relations",
+            "neighbors",
+            "relations",
+            "countries"
+        ],
+        "proper_noun": [
+            "singapore",
+            "singapore"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS420",
+        "common_noun": [
+            "beer",
+            "festivals",
+            "craft",
+            "beer",
+            "lover",
+            "beer",
+            "festivals",
+            "state",
+            "festivals",
+            "information",
+            "dates",
+            "breweries",
+            "types",
+            "beer",
+            "beer",
+            "lovers",
+            "attendance",
+            "opinions",
+            "recommendations",
+            "festivals",
+            "beers",
+            "interest"
+        ],
+        "proper_noun": [
+            "maryland",
+            "maryland"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS421",
+        "common_noun": [
+            "news",
+            "watches",
+            "news",
+            "updates",
+            "products"
+        ],
+        "proper_noun": [
+            "wear",
+            "os",
+            "wear",
+            "os",
+            "os"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS422",
+        "common_noun": [
+            "peoples",
+            "cross-country",
+            "trip",
+            "lodging",
+            "opinions"
+        ],
+        "proper_noun": [
+            "air",
+            "bnb",
+            "air",
+            "bnb",
+            "air",
+            "bnb"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS423",
+        "common_noun": [
+            "information",
+            "beaches",
+            "area",
+            "family",
+            "beaches",
+            "information",
+            "beaches",
+            "amenities",
+            "reviews",
+            "water",
+            "quality",
+            "swimming",
+            "conditions"
+        ],
+        "proper_noun": [
+            "chicago",
+            "chicago"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS424",
+        "common_noun": [
+            "information",
+            "festival",
+            "festival",
+            "information",
+            "performances",
+            "exhibits",
+            "venues",
+            "tickets",
+            "schedules",
+            "travel",
+            "parking",
+            "goers",
+            "attendance",
+            "recommendations"
+        ],
+        "proper_noun": [
+            "capital",
+            "fringe",
+            "washington",
+            "dc",
+            "capital",
+            "fringe"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS425",
+        "common_noun": [
+            "movie",
+            "posters",
+            "movie",
+            "posters",
+            "hobby",
+            "enthusiasts",
+            "interest",
+            "opinions",
+            "posters",
+            "availability",
+            "items"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS426",
+        "common_noun": [
+            "race",
+            "cyclist",
+            "updates",
+            "results",
+            "race"
+        ],
+        "proper_noun": [
+            "tour",
+            "france",
+            "tour",
+            "france"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS427",
+        "common_noun": [
+            "predictions",
+            "future",
+            "space",
+            "tourism",
+            "predictions",
+            "space",
+            "tourism",
+            "business",
+            "opportunities",
+            "space",
+            "travel",
+            "implications",
+            "man"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS428",
+        "common_noun": [
+            "information",
+            "freezing",
+            "method",
+            "body",
+            "body",
+            "freezing",
+            "cryolipolysis",
+            "studies",
+            "safety",
+            "efficacy",
+            "procedure"
+        ],
+        "proper_noun": [],
+        "th": 12
+    },
+    {
+        "id": "RTS429",
+        "common_noun": [
+            "news",
+            "space",
+            "missions",
+            "space",
+            "agencies",
+            "mysteries",
+            "universe",
+            "follower",
+            "advancements",
+            "space",
+            "range",
+            "news",
+            "satellite/rocket",
+            "launches",
+            "missions",
+            "planets",
+            "moons",
+            "system",
+            "discoveries",
+            "planets",
+            "galaxy",
+            "etc",
+            "reports",
+            "space",
+            "agencies"
+        ],
+        "proper_noun": [
+            "nasa",
+            "spacex",
+            "nasa",
+            "spacex"
+        ],
+        "th": 25
+    },
+    {
+        "id": "RTS430",
+        "common_noun": [
+            "changes",
+            "economy",
+            "trade",
+            "spat",
+            "trade",
+            "activity",
+            "trade",
+            "war",
+            "way"
+        ],
+        "proper_noun": [
+            "u.s.",
+            "u.s"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS431",
+        "common_noun": [
+            "drivers",
+            "opinions",
+            "cars",
+            "car",
+            "opinions",
+            "cars",
+            "car",
+            "owners"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS432",
+        "common_noun": [
+            "information",
+            "relationship",
+            "fan",
+            "actress",
+            "news",
+            "gossip",
+            "details",
+            "relationship",
+            "celebrities"
+        ],
+        "proper_noun": [
+            "janelle",
+            "monae",
+            "tessa",
+            "thompson",
+            "janelle",
+            "monae",
+            "tessa",
+            "thompson"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS433",
+        "common_noun": [
+            "sources",
+            "water",
+            "world",
+            "health",
+            "organization",
+            "water",
+            "sources",
+            "resurface",
+            "opinions",
+            "problem",
+            "water"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS434",
+        "common_noun": [
+            "murder",
+            "mystery",
+            "party",
+            "murder",
+            "mystery",
+            "party",
+            "friends",
+            "murder",
+            "mystery",
+            "parties",
+            "ideas",
+            "options",
+            "theme",
+            "party",
+            "tips",
+            "tricks",
+            "ways",
+            "murder",
+            "mystery",
+            "party",
+            "kits"
+        ],
+        "proper_noun": [
+            "ads"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS435",
+        "common_noun": [
+            "events",
+            "exhibits",
+            "entertainment",
+            "celebrity",
+            "guests",
+            "travel",
+            "registration",
+            "accommodations",
+            "attendees",
+            "anticipation",
+            "participation",
+            "impressions",
+            "interest"
+        ],
+        "proper_noun": [
+            "official",
+            "star",
+            "trek",
+            "convention",
+            "las",
+            "vegas",
+            "trekkie",
+            "official",
+            "star",
+            "trek",
+            "convention",
+            "las",
+            "vegas"
+        ],
+        "th": 25
+    },
+    {
+        "id": "RTS436",
+        "common_noun": [
+            "derivatives",
+            "depression",
+            "timeline",
+            "off-label",
+            "depression",
+            "treatment",
+            "substances",
+            "timeline",
+            "treatment"
+        ],
+        "proper_noun": [
+            "ketamine",
+            "esketamine",
+            "rapastinel",
+            "fda",
+            "fda",
+            "ketamine",
+            "esketamine",
+            "rapastinel",
+            "fda"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS437",
+        "common_noun": [
+            "information",
+            "summer",
+            "activities",
+            "entertainment",
+            "activities",
+            "shows",
+            "events",
+            "concert",
+            "performance",
+            "schedules",
+            "line-ups",
+            "information",
+            "things",
+            "park",
+            "interest",
+            "visitors",
+            "advice"
+        ],
+        "proper_noun": [
+            "spruce",
+            "street",
+            "harbor",
+            "park",
+            "philadelphia",
+            "philadelphia",
+            "spruce",
+            "street",
+            "harbor",
+            "park"
+        ],
+        "th": 24
+    },
+    {
+        "id": "RTS438",
+        "common_noun": [
+            "advances",
+            "printing",
+            "advances",
+            "printing",
+            "market",
+            "growth",
+            "materials",
+            "improvement",
+            "quality",
+            "printing",
+            "interest"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS439",
+        "common_noun": [
+            "peoples",
+            "policy",
+            "conduct",
+            "anthem",
+            "policy",
+            "player",
+            "conduct",
+            "anthem"
+        ],
+        "proper_noun": [
+            "nfl",
+            "national",
+            "football",
+            "league",
+            "nfl"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS440",
+        "common_noun": [
+            "accounts",
+            "complications",
+            "vitamin",
+            "supplements",
+            "side-effects",
+            "vitamin",
+            "supplements",
+            "stories",
+            "health",
+            "complications",
+            "supplements"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS441",
+        "common_noun": [
+            "parrots",
+            "parrot",
+            "pet",
+            "parrots",
+            "information",
+            "care",
+            "feeding",
+            "parrots",
+            "interest"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS442",
+        "common_noun": [
+            "swimming",
+            "venues",
+            "information",
+            "recommendations",
+            "venues",
+            "swimming",
+            "water",
+            "temperature",
+            "presence",
+            "stroke",
+            "flags"
+        ],
+        "proper_noun": [
+            "maryland",
+            "maryland"
+        ],
+        "th": 13
+    },
+    {
+        "id": "RTS443",
+        "common_noun": [
+            "cyberpunk",
+            "content",
+            "stories",
+            "imagery",
+            "world"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS444",
+        "common_noun": [
+            "safaris",
+            "recommendations",
+            "safaris",
+            "area"
+        ],
+        "proper_noun": [
+            "kenya",
+            "kenya"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS445",
+        "common_noun": [
+            "information",
+            "conference",
+            "member",
+            "convention",
+            "chapter",
+            "year",
+            "chapter",
+            "convention",
+            "year",
+            "ways",
+            "chapters",
+            "funds",
+            "convention"
+        ],
+        "proper_noun": [
+            "ladies",
+            "charity",
+            "usa",
+            "ladies",
+            "charity",
+            "usa"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS446",
+        "common_noun": [
+            "news",
+            "song",
+            "fan",
+            "song",
+            "book",
+            "series",
+            "news",
+            "rumors",
+            "book",
+            "release",
+            "tv",
+            "adaptation",
+            "author"
+        ],
+        "proper_noun": [
+            "a",
+            "ice",
+            "fire",
+            "a",
+            "ice",
+            "fire",
+            "game",
+            "thrones",
+            "george",
+            "r.r",
+            "martin"
+        ],
+        "th": 23
+    },
+    {
+        "id": "RTS447",
+        "common_noun": [
+            "information",
+            "places",
+            "things",
+            "guests",
+            "information",
+            "restaurants",
+            "bars",
+            "tourist",
+            "attractions",
+            "festivals",
+            "entertainment",
+            "area"
+        ],
+        "proper_noun": [
+            "inner",
+            "harbor",
+            "baltimore",
+            "inner",
+            "harbor",
+            "baltimore"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS448",
+        "common_noun": [
+            "stories",
+            "toll",
+            "addiction",
+            "wider",
+            "effects",
+            "addiction",
+            "accounts",
+            "toll",
+            "addiction",
+            "life",
+            "addicts",
+            "families",
+            "friends"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS449",
+        "common_noun": [
+            "fans",
+            "show",
+            "table",
+            "fan",
+            "table",
+            "episode",
+            "documentary",
+            "chef",
+            "opinions",
+            "episodes",
+            "opinion"
+        ],
+        "proper_noun": [
+            "chef",
+            "netflix",
+            "chef"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS450",
+        "common_noun": [
+            "country",
+            "citizens",
+            "performance",
+            "football",
+            "team",
+            "performance",
+            "football",
+            "fan",
+            "countries",
+            "performance",
+            "team"
+        ],
+        "proper_noun": [
+            "world",
+            "cup",
+            "world",
+            "cup"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS451",
+        "common_noun": [
+            "cricket",
+            "series",
+            "players",
+            "teams",
+            "test",
+            "series",
+            "beginning",
+            "cricket",
+            "series"
+        ],
+        "proper_noun": [
+            "india",
+            "england",
+            "odi",
+            "india",
+            "england",
+            "july",
+            "august",
+            "india",
+            "england"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS452",
+        "common_noun": [
+            "assessment",
+            "quarterback",
+            "opinions",
+            "choice",
+            "quarterback",
+            "training",
+            "camp",
+            "performance",
+            "compatibility",
+            "team",
+            "members",
+            "fan"
+        ],
+        "proper_noun": [
+            "redskins",
+            "alex",
+            "smith",
+            "alex",
+            "smith",
+            "redskins"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS453",
+        "common_noun": [
+            "anecdotes",
+            "speech",
+            "recognition",
+            "systems",
+            "writer",
+            "technology",
+            "magazine",
+            "anecdotes",
+            "speech",
+            "recognition",
+            "failures"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS454",
+        "common_noun": [
+            "air",
+            "travel",
+            "innovations",
+            "opinions",
+            "innovation",
+            "way",
+            "airplanes"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS455",
+        "common_noun": [
+            "news",
+            "technology",
+            "companies",
+            "technology",
+            "companies",
+            "innovations",
+            "researchers"
+        ],
+        "proper_noun": [
+            "rochester",
+            "new",
+            "york",
+            "rochester",
+            "new",
+            "york"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS456",
+        "common_noun": [
+            "information",
+            "incidence",
+            "virus",
+            "cases",
+            "health",
+            "professional",
+            "incidence",
+            "virus",
+            "cases",
+            "cases",
+            "numbers",
+            "outcomes",
+            "patients",
+            "information",
+            "age",
+            "health",
+            "conditions",
+            "victims"
+        ],
+        "proper_noun": [
+            "west",
+            "nile",
+            "u.s",
+            "west",
+            "nile",
+            "u.s"
+        ],
+        "th": 19
+    },
+    {
+        "id": "RTS457",
+        "common_noun": [
+            "peoples",
+            "year-round",
+            "schooling",
+            "member",
+            "school",
+            "board",
+            "schooling",
+            "schooling",
+            "views",
+            "teachers",
+            "students",
+            "parents"
+        ],
+        "proper_noun": [
+            "u.s."
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS458",
+        "common_noun": [
+            "information",
+            "tournaments",
+            "avid",
+            "player",
+            "tournament",
+            "tournaments",
+            "information",
+            "eligibility",
+            "requirements",
+            "players",
+            "plans",
+            "anticipation",
+            "tournaments",
+            "expectation",
+            "quality",
+            "competition"
+        ],
+        "proper_noun": [
+            "scrabble",
+            "scrabble"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS459",
+        "common_noun": [
+            "keyboards",
+            "programmer",
+            "keyboard",
+            "code",
+            "suggestions",
+            "keyboard"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS460",
+        "common_noun": [
+            "road",
+            "race",
+            "race",
+            "participants",
+            "road",
+            "race",
+            "years",
+            "sense",
+            "participants",
+            "race"
+        ],
+        "proper_noun": [
+            "beach",
+            "beacon",
+            "beach",
+            "beacon"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS461",
+        "common_noun": [
+            "twitter",
+            "holiday",
+            "descriptions",
+            "holiday",
+            "activities",
+            "holiday",
+            "pictures",
+            "decorations",
+            "celebratory"
+        ],
+        "proper_noun": [
+            "lughnasad",
+            "lughnasad",
+            "august",
+            "lughnasadh",
+            "lammas",
+            "lughnasad"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS462",
+        "common_noun": [
+            "fans",
+            "trade",
+            "fan",
+            "buzz",
+            "trade"
+        ],
+        "proper_noun": [
+            "orioles",
+            "manny",
+            "machado",
+            "orioles",
+            "manny",
+            "machado"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS463",
+        "common_noun": [
+            "information",
+            "status",
+            "lawsuits",
+            "cities",
+            "progress",
+            "lawsuits",
+            "cutoff",
+            "funding",
+            "cities",
+            "opinions",
+            "cities"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS464",
+        "common_noun": [
+            "business",
+            "opportunities",
+            "marijuana",
+            "business",
+            "opportunities",
+            "weed"
+        ],
+        "proper_noun": [
+            "canada",
+            "canada"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS465",
+        "common_noun": [
+            "information",
+            "re-enactments",
+            "buff",
+            "re-enactment",
+            "battle",
+            "timing",
+            "events",
+            "travel",
+            "accommodation",
+            "suggestions",
+            "registration",
+            "procedures",
+            "participants",
+            "anticipation",
+            "re-enactments",
+            "interest"
+        ],
+        "proper_noun": [
+            "civil",
+            "war",
+            "u.s",
+            "civil",
+            "war"
+        ],
+        "th": 23
+    },
+    {
+        "id": "RTS466",
+        "common_noun": [
+            "information",
+            "rhino",
+            "rhino",
+            "measures"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS467",
+        "common_noun": [
+            "movie",
+            "mission",
+            "fallout",
+            "movie",
+            "mission",
+            "fallout",
+            "movie",
+            "information",
+            "attendance",
+            "office",
+            "earnings",
+            "movie",
+            "critics",
+            "reviews",
+            "movie-goers",
+            "anticipation",
+            "premiere",
+            "critiques",
+            "movie"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS468",
+        "common_noun": [
+            "accounts",
+            "investors",
+            "cryptocurrencies",
+            "cryptocurrencies",
+            "investors",
+            "promotions",
+            "advice",
+            "experts"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS469",
+        "common_noun": [
+            "research",
+            "gene",
+            "editing",
+            "research",
+            "field",
+            "gene",
+            "editing"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS470",
+        "common_noun": [
+            "information",
+            "activities",
+            "events",
+            "resident",
+            "county",
+            "fair",
+            "year",
+            "entertainment",
+            "competitions",
+            "displays",
+            "events",
+            "plans",
+            "impressions",
+            "fair"
+        ],
+        "proper_noun": [
+            "county",
+            "fair",
+            "howard",
+            "county",
+            "maryland",
+            "howard",
+            "county",
+            "maryland"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS471",
+        "common_noun": [
+            "album",
+            "fan",
+            "rock",
+            "band",
+            "album",
+            "reviews",
+            "discussion",
+            "comments",
+            "fans",
+            "album",
+            "announcements",
+            "band"
+        ],
+        "proper_noun": [
+            "halestorm",
+            "halestorm",
+            "july"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS472",
+        "common_noun": [
+            "book",
+            "book",
+            "book",
+            "opinions",
+            "reviews",
+            "links",
+            "resources",
+            "book"
+        ],
+        "proper_noun": [
+            "godel",
+            "escher",
+            "bach",
+            "godel",
+            "escher",
+            "bach"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS473",
+        "common_noun": [
+            "wedding",
+            "ideas",
+            "friend",
+            "prepare",
+            "wedding",
+            "ideas",
+            "wedding",
+            "wedding",
+            "venue",
+            "dress",
+            "designs",
+            "hairstyles",
+            "weddings"
+        ],
+        "proper_noun": [
+            "western",
+            "chinese-themed"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS474",
+        "common_noun": [
+            "instances",
+            "fraternity",
+            "hazing",
+            "pledges",
+            "instances",
+            "fraternity",
+            "hazing",
+            "pledges",
+            "hazing",
+            "parents",
+            "universities"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS475",
+        "common_noun": [
+            "information",
+            "year",
+            "dates",
+            "activities",
+            "concessions",
+            "drink",
+            "performances",
+            "anticipation",
+            "attendance",
+            "fest",
+            "impressions",
+            "opinions",
+            "fests"
+        ],
+        "proper_noun": [
+            "lincoln",
+            "square",
+            "greekfest",
+            "chicago",
+            "lincoln",
+            "square",
+            "greekfest"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS476",
+        "common_noun": [
+            "goat",
+            "yoga",
+            "studio",
+            "owner",
+            "goat",
+            "yoga",
+            "class",
+            "goat",
+            "yoga",
+            "exercise"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS477",
+        "common_noun": [
+            "candidates",
+            "teachers",
+            "campaigns",
+            "teachers",
+            "candidates",
+            "election",
+            "information",
+            "platforms",
+            "prospects"
+        ],
+        "proper_noun": [
+            "u.s",
+            "u.s."
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS478",
+        "common_noun": [
+            "information",
+            "design",
+            "courses",
+            "principles",
+            "portfolios",
+            "design",
+            "design",
+            "courses",
+            "design",
+            "portfolios",
+            "ideas"
+        ],
+        "proper_noun": [
+            "ux",
+            "ux",
+            "ux",
+            "ux"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS479",
+        "common_noun": [
+            "music",
+            "concerts",
+            "concert",
+            "views",
+            "quality",
+            "concerts"
+        ],
+        "proper_noun": [
+            "ed",
+            "sheeran",
+            "ed",
+            "sheeran"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS480",
+        "common_noun": [
+            "state",
+            "crab",
+            "industry",
+            "business",
+            "analyst",
+            "state",
+            "crab",
+            "industry",
+            "health",
+            "industry",
+            "state",
+            "crab",
+            "worker",
+            "labor",
+            "force",
+            "issues",
+            "industry"
+        ],
+        "proper_noun": [
+            "maryland",
+            "maryland"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS481",
+        "common_noun": [
+            "information",
+            "skin",
+            "care",
+            "products",
+            "routines",
+            "skin",
+            "care",
+            "discoveries",
+            "skin",
+            "care",
+            "products",
+            "routines"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS482",
+        "common_noun": [
+            "plans",
+            "football",
+            "team",
+            "disappointment",
+            "group",
+            "plans",
+            "football",
+            "team"
+        ],
+        "proper_noun": [
+            "germany",
+            "germany",
+            "world",
+            "cup",
+            "russia"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS483",
+        "common_noun": [
+            "eruption",
+            "tourism",
+            "effect",
+            "volcano",
+            "eruption",
+            "tourism",
+            "industry",
+            "tourists",
+            "volcano",
+            "plans",
+            "volcano"
+        ],
+        "proper_noun": [
+            "hawaii",
+            "kilauea",
+            "kilauea",
+            "hawaii",
+            "hawaii"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS484",
+        "common_noun": [
+            "plans",
+            "year",
+            "oktoberfest",
+            "world",
+            "plans",
+            "year",
+            "area"
+        ],
+        "proper_noun": [
+            "kitchener",
+            "oktoberfest",
+            "kitchener",
+            "oktoberfest"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS485",
+        "common_noun": [
+            "information",
+            "year",
+            "music",
+            "festival",
+            "plans",
+            "music",
+            "festival",
+            "performers",
+            "line-ups",
+            "activities",
+            "events",
+            "festival",
+            "anticipation",
+            "festival",
+            "quality",
+            "performances",
+            "festival"
+        ],
+        "proper_noun": [
+            "lallapalooza",
+            "lallapalooza"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS486",
+        "common_noun": [
+            "world",
+            "waves",
+            "weather",
+            "heat",
+            "waves",
+            "change",
+            "places",
+            "world",
+            "heat",
+            "waves"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS487",
+        "common_noun": [
+            "advice",
+            "hurricane",
+            "preparedness",
+            "checklist",
+            "hurricane",
+            "preparedness",
+            "opinions",
+            "hurricane",
+            "persons",
+            "hurricanes"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS488",
+        "common_noun": [
+            "robocalls",
+            "phone",
+            "scams",
+            "junk",
+            "phone",
+            "robocalls",
+            "phone",
+            "scams",
+            "ways",
+            "calls",
+            "stories",
+            "call",
+            "someone",
+            "interest",
+            "statements",
+            "frustration",
+            "calls",
+            "details"
+        ],
+        "proper_noun": [],
+        "th": 17
+    },
+    {
+        "id": "RTS489",
+        "common_noun": [
+            "instances",
+            "schools",
+            "discussions",
+            "system",
+            "treats",
+            "occurrences",
+            "understanding",
+            "schools",
+            "incidents",
+            "schools",
+            "descriptions",
+            "schools",
+            "incidents"
+        ],
+        "proper_noun": [
+            "canada",
+            "u.s.",
+            "u.s",
+            "canada"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS490",
+        "common_noun": [
+            "teachers",
+            "school",
+            "supplies",
+            "money",
+            "accounts",
+            "teachers",
+            "money",
+            "school",
+            "supplies",
+            "spend",
+            "average",
+            "year",
+            "strategies",
+            "out-of-pocket",
+            "costs"
+        ],
+        "proper_noun": [],
+        "th": 14
+    },
+    {
+        "id": "RTS491",
+        "common_noun": [
+            "souvenirs",
+            "luggage",
+            "home",
+            "country",
+            "visit",
+            "suggestions",
+            "souvenirs",
+            "family"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS492",
+        "common_noun": [
+            "trends",
+            "clothing",
+            "accessories",
+            "supplies",
+            "school",
+            "year",
+            "school",
+            "trends",
+            "clothes",
+            "accessories",
+            "supplies",
+            "tips",
+            "looks",
+            "items"
+        ],
+        "proper_noun": [],
+        "th": 13
+    },
+    {
+        "id": "RTS493",
+        "common_noun": [
+            "information",
+            "results",
+            "opinions",
+            "negotiations",
+            "respect",
+            "border",
+            "issue",
+            "negotiations",
+            "nature",
+            "border",
+            "controls",
+            "separation",
+            "progress",
+            "issue",
+            "negotiations",
+            "solutions"
+        ],
+        "proper_noun": [
+            "brexit",
+            "brexit",
+            "eu",
+            "great",
+            "britain",
+            "great",
+            "britain",
+            "ireland",
+            "brexit"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS494",
+        "common_noun": [
+            "information",
+            "air",
+            "quality",
+            "eruptions",
+            "resident",
+            "air",
+            "quality",
+            "reports",
+            "light",
+            "eruptions",
+            "lava",
+            "flows"
+        ],
+        "proper_noun": [
+            "kalauea",
+            "volcano",
+            "kalauea",
+            "volcano",
+            "hawaii"
+        ],
+        "th": 15
+    },
+    {
+        "id": "RTS495",
+        "common_noun": [
+            "classes",
+            "classes"
+        ],
+        "proper_noun": [
+            "computer",
+            "aided",
+            "design",
+            "cad",
+            "computer",
+            "aided",
+            "design",
+            "cad"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS496",
+        "common_noun": [
+            "marathons",
+            "marathon",
+            "marathon",
+            "training",
+            "schedules",
+            "joys",
+            "disappointments",
+            "process"
+        ],
+        "proper_noun": [],
+        "th": 9
+    },
+    {
+        "id": "RTS497",
+        "common_noun": [
+            "instances",
+            "trees",
+            "storms",
+            "owner",
+            "landscaping",
+            "business",
+            "publicity",
+            "campaign",
+            "care",
+            "trees",
+            "instances",
+            "tree",
+            "storm"
+        ],
+        "proper_noun": [],
+        "th": 14
+    },
+    {
+        "id": "RTS498",
+        "common_noun": [
+            "techniques",
+            "bullet",
+            "journaling",
+            "bullet",
+            "journal",
+            "techniques"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS499",
+        "common_noun": [
+            "acquisitions",
+            "acquisitions",
+            "plans",
+            "acquisitions"
+        ],
+        "proper_noun": [
+            "microsoft",
+            "microsoft",
+            "corporation"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS500",
+        "common_noun": [
+            "information",
+            "metal",
+            "concerts",
+            "metal",
+            "music",
+            "metal",
+            "concerts"
+        ],
+        "proper_noun": [
+            "toronto",
+            "toronto"
+        ],
+        "th": 7
+    },
+    {
+        "id": "RTS501",
+        "common_noun": [
+            "source",
+            "applications",
+            "releases",
+            "prefers",
+            "source",
+            "software",
+            "source",
+            "applications",
+            "releases"
+        ],
+        "proper_noun": [
+            "latest"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS502",
+        "common_noun": [
+            "information",
+            "classes",
+            "conferences",
+            "training",
+            "certification",
+            "fitness",
+            "instructors",
+            "certification",
+            "order",
+            "fitness",
+            "instructor",
+            "information",
+            "date",
+            "cost",
+            "organizations",
+            "programs",
+            "participants",
+            "comments",
+            "quality",
+            "certifying",
+            "organizations",
+            "programs"
+        ],
+        "proper_noun": [],
+        "th": 21
+    },
+    {
+        "id": "RTS503",
+        "common_noun": [
+            "suits",
+            "season",
+            "actors",
+            "show",
+            "follower",
+            "series",
+            "suits",
+            "season",
+            "actors",
+            "series",
+            "fans",
+            "season",
+            "shows"
+        ],
+        "proper_noun": [
+            "suits"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS504",
+        "common_noun": [
+            "concert",
+            "fan",
+            "planning",
+            "concert",
+            "fans",
+            "anticipation",
+            "concert",
+            "band",
+            "performance",
+            "information/advice",
+            "travel",
+            "concert"
+        ],
+        "proper_noun": [
+            "slightly",
+            "stoopid",
+            "mecu",
+            "pavilion",
+            "baltimore",
+            "baltimore"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS505",
+        "common_noun": [
+            "baby",
+            "baby"
+        ],
+        "proper_noun": [
+            "cardi",
+            "b",
+            "cardi",
+            "b"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS506",
+        "common_noun": [
+            "information",
+            "legislature",
+            "proposal",
+            "teachers",
+            "state",
+            "legislature",
+            "teachers",
+            "draft",
+            "bills",
+            "status",
+            "bills",
+            "opposition",
+            "efforts",
+            "likelihood",
+            "passage",
+            "bill"
+        ],
+        "proper_noun": [
+            "kansas",
+            "kansas"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS507",
+        "common_noun": [
+            "information",
+            "event",
+            "information",
+            "tour",
+            "dates",
+            "venues",
+            "tickets",
+            "travel",
+            "accommodations",
+            "line-up",
+            "performers",
+            "activities",
+            "events",
+            "attendees",
+            "anticipation",
+            "tour"
+        ],
+        "proper_noun": [
+            "vans",
+            "tour",
+            "vans",
+            "warped",
+            "tour"
+        ],
+        "th": 20
+    },
+    {
+        "id": "RTS508",
+        "common_noun": [
+            "cruise",
+            "deals",
+            "destinations",
+            "cruise",
+            "ideas",
+            "destinations",
+            "sites",
+            "deals",
+            "cruise",
+            "ships"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS509",
+        "common_noun": [
+            "information",
+            "market",
+            "trucks",
+            "car",
+            "buff",
+            "antique",
+            "truck",
+            "trucks",
+            "sale",
+            "commentary",
+            "pros",
+            "cons",
+            "model",
+            "truck"
+        ],
+        "proper_noun": [
+            "dodge",
+            "dodge",
+            "dodge"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS510",
+        "common_noun": [
+            "accounts",
+            "beekeeping",
+            "beekeeping",
+            "hobby",
+            "hobby"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS511",
+        "common_noun": [
+            "vacations",
+            "vacation",
+            "vacationers",
+            "beach"
+        ],
+        "proper_noun": [
+            "ocean",
+            "city",
+            "maryland",
+            "ocean",
+            "city",
+            "maryland"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS512",
+        "common_noun": [
+            "researchers",
+            "machine",
+            "models",
+            "research",
+            "interpretability",
+            "machine",
+            "learning",
+            "models"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS513",
+        "common_noun": [
+            "nominations",
+            "choices",
+            "shows",
+            "critics",
+            "viewers",
+            "selections"
+        ],
+        "proper_noun": [
+            "emmy",
+            "emmy"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS514",
+        "common_noun": [
+            "information",
+            "efforts",
+            "turtles",
+            "information",
+            "efforts",
+            "populations",
+            "opinions",
+            "effectiveness",
+            "efforts"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS515",
+        "common_noun": [
+            "information",
+            "recommendations",
+            "dramas",
+            "dramas",
+            "recommendations"
+        ],
+        "proper_noun": [
+            "korean",
+            "korean"
+        ],
+        "th": 6
+    },
+    {
+        "id": "RTS516",
+        "common_noun": [
+            "concert",
+            "fan",
+            "fans",
+            "concert",
+            "information",
+            "concert",
+            "tour",
+            "dates",
+            "ticket",
+            "pricing",
+            "availability",
+            "fans",
+            "information",
+            "pictures",
+            "concerts",
+            "fans",
+            "concert"
+        ],
+        "proper_noun": [
+            "linkin",
+            "park",
+            "linkin",
+            "park",
+            "linkin",
+            "park"
+        ],
+        "th": 17
+    },
+    {
+        "id": "RTS517",
+        "common_noun": [
+            "aftermath",
+            "tornadoes",
+            "scientist",
+            "ways",
+            "face",
+            "disasters",
+            "aftermath",
+            "tornadoes"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS518",
+        "common_noun": [
+            "pickle",
+            "ball",
+            "ball"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS519",
+        "common_noun": [
+            "instances",
+            "kids",
+            "cars",
+            "heat",
+            "ways",
+            "parents",
+            "children",
+            "cars",
+            "reports",
+            "instances",
+            "kids",
+            "cars",
+            "heat"
+        ],
+        "proper_noun": [],
+        "th": 11
+    },
+    {
+        "id": "RTS520",
+        "common_noun": [
+            "party",
+            "citizen",
+            "relationships"
+        ],
+        "proper_noun": [
+            "singapore",
+            "people",
+            "action",
+            "party",
+            "pap",
+            "singapore",
+            "people",
+            "action",
+            "party",
+            "pap"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS521",
+        "common_noun": [
+            "concert",
+            "fan",
+            "concert",
+            "fans",
+            "anticipation",
+            "concert",
+            "appreciation"
+        ],
+        "proper_noun": [
+            "charlie",
+            "puth",
+            "wolf",
+            "trap",
+            "charlie",
+            "puth",
+            "wolf",
+            "trap"
+        ],
+        "th": 12
+    },
+    {
+        "id": "RTS522",
+        "common_noun": [
+            "recipes",
+            "chocolate",
+            "cupcakes",
+            "cupcakes",
+            "chocolate",
+            "cupcake",
+            "recipes"
+        ],
+        "proper_noun": [],
+        "th": 6
+    },
+    {
+        "id": "RTS523",
+        "common_noun": [
+            "instances",
+            "car",
+            "accidents",
+            "cars",
+            "insurance",
+            "analyst",
+            "risks",
+            "cars",
+            "instances",
+            "car",
+            "accidents",
+            "cars",
+            "types",
+            "injuries",
+            "customers"
+        ],
+        "proper_noun": [
+            "uber",
+            "uber",
+            "uber",
+            "uber"
+        ],
+        "th": 14
+    },
+    {
+        "id": "RTS524",
+        "common_noun": [
+            "information",
+            "life",
+            "attendees",
+            "year",
+            "festival",
+            "music",
+            "event",
+            "event"
+        ],
+        "proper_noun": [
+            "satchmo",
+            "summer",
+            "fest",
+            "new",
+            "orleans",
+            "satchmo",
+            "summer",
+            "fest",
+            "louis",
+            "armstrong"
+        ],
+        "th": 18
+    },
+    {
+        "id": "RTS525",
+        "common_noun": [
+            "recommendations",
+            "tofu",
+            "dishes",
+            "tofu",
+            "dishes",
+            "recipes",
+            "tips",
+            "tofu",
+            "dishes"
+        ],
+        "proper_noun": [],
+        "th": 7
+    },
+    {
+        "id": "RTS526",
+        "common_noun": [
+            "cuisine"
+        ],
+        "proper_noun": [
+            "singapore",
+            "singapore",
+            "not"
+        ],
+        "th": 8
+    },
+    {
+        "id": "RTS527",
+        "common_noun": [
+            "jazz",
+            "artists",
+            "jazz",
+            "music",
+            "opinions",
+            "jazz",
+            "aficionados",
+            "artists",
+            "listening"
+        ],
+        "proper_noun": [],
+        "th": 8
+    },
+    {
+        "id": "RTS528",
+        "common_noun": [
+            "information",
+            "policies",
+            "studies",
+            "diversity",
+            "universities",
+            "scientist",
+            "effects",
+            "gender",
+            "diversity",
+            "universities",
+            "reports",
+            "actions",
+            "policy",
+            "makers",
+            "gender",
+            "gaps",
+            "findings",
+            "gender",
+            "gap",
+            "fields"
+        ],
+        "proper_noun": [
+            "stem"
+        ],
+        "th": 21
+    },
+    {
+        "id": "RTS529",
+        "common_noun": [
+            "showing",
+            "opinions",
+            "show",
+            "performance",
+            "show",
+            "hype"
+        ],
+        "proper_noun": [
+            "hamilton",
+            "kennedy",
+            "center",
+            "hamilton",
+            "kennedy",
+            "center"
+        ],
+        "th": 11
+    },
+    {
+        "id": "RTS530",
+        "common_noun": [
+            "service",
+            "service",
+            "cities",
+            "city",
+            "officials",
+            "service",
+            "cuts"
+        ],
+        "proper_noun": [
+            "greyhound",
+            "canada",
+            "greyhound",
+            "canada",
+            "greyhound"
+        ],
+        "th": 9
+    },
+    {
+        "id": "RTS531",
+        "common_noun": [
+            "novelty",
+            "cinematography",
+            "respect",
+            "techniques",
+            "novelty",
+            "cinematography",
+            "techniques",
+            "films",
+            "camera",
+            "shots"
+        ],
+        "proper_noun": [],
+        "th": 9
+    }
+]
