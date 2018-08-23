@@ -1,6 +1,7 @@
 import os
 import json
 import pandas as pd
+from Ranking_Algo import Ranking_algo
 data = os.listdir('../data')
 for x in data:
     if not x.isdigit():
@@ -9,7 +10,7 @@ for x in data:
 data.remove('rename.py')
 
 def read_files():
-    folders = ['01', '02', '24', '25', '26', '27', '28', '29', '30', '31']
+    folders = ['24']
     count=0
     for folder in folders:
         print('*' * 20+ folder+ '*' * 20)
@@ -20,11 +21,13 @@ def read_files():
                 print 'Reading file:- ',file
                 f=open(file_loc)
                 data=f.read()
-                data=json.loads(data)
-                df=pd.DataFrame(data)
-                print df.columns
-                print df.head()
+                tweets=json.loads(data)
+                for tweet in tweets:
+                    ranking_algo(tweet)
                 count+=1
     print count
-read_files()
-
+# read_files()
+tweet_demo='apple iphone X boston new york'
+results=Ranking_algo(tweet_demo)
+print ('-'*60)+'result:'+('-'*60)
+print results
