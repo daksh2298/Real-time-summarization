@@ -49,7 +49,8 @@ def process_content(tweet):
             d['NN'] = nn
             d['NNP'] = nnp
             # print d
+            return d
     except Exception as e:
         print 'abbriv', str(e)
-    return d
-#process_content("hello i am yash.")
+        return {}
+# print process_content("hello i am yash.")
